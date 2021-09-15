@@ -1,1 +1,13 @@
-fdfffffffffffffff
+git branch alpha
+
+git checkout alpha
+
+git status
+
+
+git commit "My Second Commit"
+
+
+git push --set-upstream origin alpha
+
+
