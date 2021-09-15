@@ -1,1 +1,3 @@
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvfdfffffffffffffff
+git add .
+
+/// add all files in the folder
